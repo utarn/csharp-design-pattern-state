@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.AssemblyInfo.cs
+C:\projects\dotnet\pattern-state\bin\Debug\netcoreapp3.1\pattern-state.exe
+C:\projects\dotnet\pattern-state\bin\Debug\netcoreapp3.1\pattern-state.deps.json
+C:\projects\dotnet\pattern-state\bin\Debug\netcoreapp3.1\pattern-state.runtimeconfig.json
+C:\projects\dotnet\pattern-state\bin\Debug\netcoreapp3.1\pattern-state.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-state\bin\Debug\netcoreapp3.1\pattern-state.dll
+C:\projects\dotnet\pattern-state\bin\Debug\netcoreapp3.1\pattern-state.pdb
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.dll
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.pdb
+C:\projects\dotnet\pattern-state\obj\Debug\netcoreapp3.1\pattern-state.genruntimeconfig.cache
