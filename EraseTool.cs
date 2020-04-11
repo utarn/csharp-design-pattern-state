@@ -2,17 +2,16 @@ using System;
 
 namespace pattern_state
 {
-    public class Canvas
+    public class EraseTool : Tool
     {
-        public Tool CurrentToolType { get; set; }
         public void mouseDown()
         {
-            CurrentToolType.mouseDown();
+            Console.WriteLine("Eraser icon");
         }
 
         public void mouseUp()
         {
-            CurrentToolType.mouseUp();
+            Console.WriteLine("Erase something");
         }
     }
 }

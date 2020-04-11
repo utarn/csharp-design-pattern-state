@@ -2,17 +2,16 @@ using System;
 
 namespace pattern_state
 {
-    public class Canvas
+    public class SelectionTool : Tool
     {
-        public Tool CurrentToolType { get; set; }
         public void mouseDown()
         {
-            CurrentToolType.mouseDown();
+            Console.WriteLine("Selection icon");
         }
 
         public void mouseUp()
         {
-            CurrentToolType.mouseUp();
+            Console.WriteLine("Draw a rectangle");
         }
     }
 }
